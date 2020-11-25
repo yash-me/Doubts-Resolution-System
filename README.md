@@ -1,7 +1,7 @@
 # Doubts-Resolution-System
 ------
 ##### MERN STACK APPLICATION.
-
+##### npm install and npm start in both the folders to run.
 
 ![alt text](https://raw.githubusercontent.com/yash-me/Doubts-Resolution-System/main/4.jpeg?token=ANMABICHN7LE2LJYFZOAGKK7Y3Z2I)
 
